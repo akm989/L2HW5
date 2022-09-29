@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\New folder\L2HW5\Задача34\obj\Debug\net6.0\Задача34.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder\L2HW5\Задача34\obj\Debug\net6.0\Задача34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder\L2HW5\Задача34\obj\Debug\net6.0\Задача34.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\L2HW5\Задача34\obj\Debug\net6.0\Задача34.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\L2HW5\Задача34\obj\Debug\net6.0\Задача34.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\L2HW5\Задача34\bin\Debug\net6.0\Задача34.exe
+C:\Users\user\Desktop\New folder\L2HW5\Задача34\bin\Debug\net6.0\Задача34.deps.json
+C:\Users\user\Desktop\New folder\L2HW5\Задача34\bin\Debug\net6.0\Задача34.runtimeconfig.json
+C:\Users\user\Desktop\New folder\L2HW5\Задача34\bin\Debug\net6.0\Задача34.dll
+C:\Users\user\Desktop\New folder\L2HW5\Задача34\bin\Debug\net6.0\Задача34.pdb
+C:\Users\user\Desktop\New folder\L2HW5\Задача34\obj\Debug\net6.0\Задача34.dll
+C:\Users\user\Desktop\New folder\L2HW5\Задача34\obj\Debug\net6.0\refint\Задача34.dll
+C:\Users\user\Desktop\New folder\L2HW5\Задача34\obj\Debug\net6.0\Задача34.pdb
+C:\Users\user\Desktop\New folder\L2HW5\Задача34\obj\Debug\net6.0\Задача34.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder\L2HW5\Задача34\obj\Debug\net6.0\ref\Задача34.dll
