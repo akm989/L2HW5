@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\New folder\L2HW5\Задача36\bin\Debug\net6.0\Задача36.exe
+C:\Users\user\Desktop\New folder\L2HW5\Задача36\bin\Debug\net6.0\Задача36.deps.json
+C:\Users\user\Desktop\New folder\L2HW5\Задача36\bin\Debug\net6.0\Задача36.runtimeconfig.json
+C:\Users\user\Desktop\New folder\L2HW5\Задача36\bin\Debug\net6.0\Задача36.dll
+C:\Users\user\Desktop\New folder\L2HW5\Задача36\bin\Debug\net6.0\Задача36.pdb
+C:\Users\user\Desktop\New folder\L2HW5\Задача36\obj\Debug\net6.0\Задача36.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder\L2HW5\Задача36\obj\Debug\net6.0\Задача36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder\L2HW5\Задача36\obj\Debug\net6.0\Задача36.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\L2HW5\Задача36\obj\Debug\net6.0\Задача36.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\L2HW5\Задача36\obj\Debug\net6.0\Задача36.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\L2HW5\Задача36\obj\Debug\net6.0\Задача36.dll
+C:\Users\user\Desktop\New folder\L2HW5\Задача36\obj\Debug\net6.0\refint\Задача36.dll
+C:\Users\user\Desktop\New folder\L2HW5\Задача36\obj\Debug\net6.0\Задача36.pdb
+C:\Users\user\Desktop\New folder\L2HW5\Задача36\obj\Debug\net6.0\Задача36.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder\L2HW5\Задача36\obj\Debug\net6.0\ref\Задача36.dll
